@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # RSI Cross Alert Bot
 
 Telegram bot for a custom RSI(7) / SMA(14)-of-RSI entry setup on Binance
